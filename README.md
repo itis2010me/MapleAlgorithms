@@ -1,5 +1,5 @@
 # MapleAlgorithms
-Some algorithms for solving robotics problems that I implemented. 
+Some algorithms for solving robotics problems that I implemented.
 
 Mathematical foundations taken from 'Ideals, Varieties, and Algorithms (4th ed.)' Chapter 1-6
 
@@ -9,3 +9,5 @@ There are:
 - GCD calculation
 - Multivariate polynomial division
 - BuchBurger Algorithm(for producing Groebner basis in the base form)
+
+Added a LaTeX template for demostrating the algorithms above.(coming soon)
